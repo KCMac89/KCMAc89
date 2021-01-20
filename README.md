@@ -1,4 +1,4 @@
-### I'm Casey McCrimmon aka KCMac89
+### Hi there, I'm Casey McCrimmon aka KCMac89 :wave:
 
 ## I'm currently a student at Notheastern State University, working on my B.S. degree in Computer Science
 
