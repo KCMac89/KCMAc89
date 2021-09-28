@@ -2,8 +2,7 @@
 
 ## I'm currently a student at Notheastern State University, working on my B.S. degree in Computer Science
 
-This semester: I am learning game programming with Unity, Object Oriented Programming with Java, and Database Management with SQL.
-My goal is to finish my degree and graduate by Spring 2022.
+This semester: I am learning Data Strucures, Software engineering and Advanced Java.
 
 
 ### Connect with Me
