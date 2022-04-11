@@ -1,8 +1,8 @@
 ### Hi there, I'm Casey McCrimmon aka KCMac89 :wave:
 
-## I'm currently a student at Notheastern State University, working on my B.S. degree in Computer Science
+## I'm currently a student at Notheastern State University, expected to graduate with a B.S. degree in Computer Science in May 2022
 
-This semester: I am learning Data Strucures, Software engineering and Advanced Java.
+
 
 
 ### Connect with Me
