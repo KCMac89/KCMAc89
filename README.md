@@ -1,9 +1,10 @@
 ### Hi there, I'm Casey McCrimmon aka KCMac89 :wave:
 
-## I'm currently a student at Notheastern State University, expected to graduate with a B.S. degree in Computer Science in May 2022
+## I am a software engineer working primarily with flight simulators.
 
+## I graduated with a B.S. degree in Computer Science from Notheastern State University in May 2022.
 
-
+## I have some experience with many programming languages including C++, C#, Python, Java, Javascript, HTML, and SQL. My goal is to expand my experience with these languages to learn all the best practices and nuances and then begin to specialize in those areas I am most interested in.
 
 ### Connect with Me
 
